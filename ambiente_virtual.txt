@@ -1,0 +1,4 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 
+ python -m venv /Users/muniz/Área de Trabalho/mallcostumer
+ .\.venv\Scripts\activate
+ pip install ---
