@@ -1,0 +1,1 @@
+A data analysis portifolio project that shows the costumer segmentation on a specific group of mall costumers. The KMeans unsurpevised machine learning algorithm was used to find the univariate, bivariate and multivariate clusters. Thus, allowing the identification and summary statistics, and how these can be peformed on the best marketing group.
